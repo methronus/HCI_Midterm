@@ -12,7 +12,6 @@ Please note that these sketches require the following to run:
 1. touchOSC and Sensors2OSC
 2. Processing with oscP5
 
-I am including the oscP5 zip here for convenience.
 
 Useful Links:
 
